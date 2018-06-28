@@ -1,0 +1,147 @@
+Sentence 1
+
+s
+  v-take
+  np
+    det-the
+    n-block
+    pp
+      p-on
+      np
+        det-the
+        a-green
+        n-circle
+
+Sentence 2
+
+s
+  v-put
+  np
+    det-the
+    n-block
+    pp
+      p-on
+      np
+        det-the
+        n-circle
+  pp
+    p-on
+    np
+      det-the
+      a-red
+      n-circle
+
+Sentence 3
+
+s
+  v-put
+  np
+    det-the
+    a-green
+    n-cone
+  pp
+    p-on
+    np
+      det-the
+      n-square
+
+Sentence 4
+
+s
+  v-take
+  np
+    det-the
+    a-red
+    n-cone
+
+Sentence 5
+
+s
+  v-put
+  np
+    det-the
+    a-green
+    n-block
+  pp
+    p-on
+    np
+      det-the
+      n-square
+
+Sentence 6
+
+s
+  v-take
+  np
+    det-the
+    a-blue
+    n-cone
+    pp
+      p-on
+      np
+        det-the
+        a-red
+        n-circle
+
+Sentence 7
+
+s
+  v-take
+  np
+    det-the
+    n-cube
+    pp
+      p-on
+      np
+        det-the
+        a-red
+        n-circle
+
+Sentence 8
+
+s
+  v-put
+  np
+    det-the
+    a-blue
+    n-cone
+    pp
+      p-on
+      np
+        det-the
+        a-red
+        n-circle
+  pp
+    p-on
+    np
+      det-the
+      a-green
+      n-circle
+
+Sentence 9
+
+s
+  v-put
+  np
+    det-the
+    n-block
+  pp
+    p-on
+    np
+      det-the
+      a-green
+      n-circle
+
+Sentence 10
+
+s
+  v-put
+  np
+    det-the
+    a-blue
+    n-block
+  pp
+    p-on
+    np
+      det-the
+      n-circle
